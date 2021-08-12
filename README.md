@@ -4,6 +4,8 @@
 
   This the React frontend for the Jobly backend using **TypeScript**.
 
+  Demo: https://yb-jobly-ts.surge.sh/
+
   ## Stack
   - React
     - React Testing Library

@@ -26,7 +26,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "REACT_APP_BASE_URL=https://yb-ex-jobly.herokuapp.com react-scripts build",
     "test": "react-scripts test",
     "test:runInBand": "react-scripts test --runInBand",
     "eject": "react-scripts eject"
